@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <label for="text_field">Nome e Cognome</label>
+    <input type="text" id="text_field" />
+
+  <label for="text_area">Indirizzo di residenza</label>
+    <textarea id="text_area"></textarea>
+
+  <label for="text_field">Codice Fiscale</label>
+    <input type="text" id="text_field" />
+
+  <label for="text_field">Data e Luogo di nascita</label>
+    <input type="text" id="text_field" />
+
+  <label for="text_field">Email di contatto</label>
+    <input type="text" id="text_field" />
+
+  <label for="radio_buttons">Seleziona un'opzione</label>
+    <label>
+      <input type="radio" class="radio" name="radio_button" value="radio_1" /> Nuova iscrizione
+    </label>
+    <label>
+      <input type="radio" class="radio" name="radio_button" value="radio_2" /> Rinnovo iscrizione
+    </label>
+
+
+  <label for="checkboxes">Procedendo con la registrazione/rinnovo, si da il consenso al trattamento dei dati ai fini dell'iscrizione all'associazione ITPUG e si accetta lo Statuto dell'Associazione</label>
+    <label>
+      <input type="checkbox" class="checkbox" name="checkboxes" value="check_1" /> Statuto: Letto ed accettato
+    </label>
+    <label>
+      <input type="checkbox" class="checkbox" name="checkboxes" value="check_2" /> Privacy: Letto ed accettato
+    </label>
+    <label>
+      <input type="checkbox" class="checkbox" name="checkboxes" value="check_3" /> Codice Etico: Letto ed accettato
+    </label>
+
+
+  <label for="file">Attestato pagamento quota sociale:</label>
+    <input type="file" class="file" name="file" />
+
+  <input type="submit" value="Submit" />
+</form>
