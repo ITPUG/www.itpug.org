@@ -19,9 +19,9 @@ last_modified_at: 2017-08-05T14:28:13-05:00
 
 ## Progetto SMAU ICT
 
-Il 24, 25 e 26 ottobre 2017 a Milano si svolge lo [SMAU](----) la manifestazione
+Il 24, 25 e 26 ottobre 2017 a Milano si svolge lo [SMAU](http://www.smau.it/company/pages/home/) la manifestazione
 
-è il secondo anno che lo [SMAU](----) dedica spazio all'Open Source ed in modo particolare un'area riservata alle Community che ne fanno parte.
+è il secondo anno che lo [SMAU](http://www.smau.it/company/search/?csrfmiddlewaretoken=9c1899072884ee7b695a3f5ffa584815&q=open+source#exhibitors) dedica spazio all'Open Source ed in modo particolare un'area riservata alle Community che ne fanno parte.
 
 L'area community è pensata per creare un momento di networking tra community, user group e associazioni inerenti all'ambito ICT.
 
