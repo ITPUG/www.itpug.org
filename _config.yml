@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "ITPUG"
 title_separator          : "-"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+name                     : &name "" # &name is a YAML anchor which can be *referenced later
+description              : "ITalian PostgreSQL Users Group"
 url                      : https://itpug.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/bam-tests" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
@@ -81,10 +81,10 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
-  email            :
-  uri              : "https://mademistakes.com"
+  bio              : "Nasce a Prato (PO) il 17 novembre 2007."
+  location         : "Italy"
+  email            : "info@itpug.org"
+  uri              : "http://www.itpug.org/"
   bitbucket        :
   codepen          :
   dribbble         :

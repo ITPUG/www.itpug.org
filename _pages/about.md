@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "ITPUG - ITalian PostgreSQL Users Group"
+excerpt: "ITalian PostgreSQL Users Group"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -12,70 +12,108 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2017-02-14T14:28:13-05:00
+last_modified_at: 2017-08-04T14:28:13-05:00
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+{% include gallery id="layouts_gallery" caption="Facilmente riconoscibili: `PostgreSQL`, `ITPUG`, `Community`" %}
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia.
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | absolute_url }}){: .btn .btn--success .btn--large}
+In modo particolare, l’associazione ITPUG, promuove l’adozione di [PostgreSQL](https://www.postgresql.org/), uno dei progetti open source di maggior successo.
 
-## Notable Features
+ITPUG nasce a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del [PGDay](/pgday/).
 
-- Compatible with Jekyll 3.x and GitHub Pages
-- Support for Jekyll's built-in Sass/SCSS preprocessor
-- Several responsive layout options (single, archive index, splash, and paginated home page)
-- SEO optimized with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese, Chinese, French, German, Italian, Korean, Nepali (Nepalese), Russian, Spanish, and Turkish
+Principali obiettivi dell'Associazione:
+* Promuovere PostgreSQL con professionalità verso:
+  * Le istituzioni (Pubblica Amministrazione)
+  * Le scuole e le università
+  * Le aziende
+* Organizzare l'evento PostgreSQL Day italiano ogni anno
+* Attività di marketing per PostgreSQL
+* Partecipare a iniziative/conferenze su software libero e open-source
+* Punto di incontro fra la comunità internazionale e quella italiana
+* Creare progetti che possano migliorare il progetto, soprattutto per quanto riguarda la localizzazione in italiano
 
-## Demo Pages
+Dal 2007 ad oggi, l'associazione ha portato avanti la sua  mission, promuovendo l'adozione dell'Open Source in Italia grazie all'attività proattiva dei soci che volontariamente si rendono disponibili per seguire le varie attività.
 
-| Name                                        | Description                                           |
+Per maggiori informazioni sull’associazione ITPUG scrivi a [info@itpug.org](mailto: infp@itpug.org).
+
+## I nostri contatti
+
+**ITPUG - Italian PostgreSQL Users Group**
+
+*(Associazione no-profit)*
+
+Sede Legale: Via G. Bovio nr.4 59100 Prato (PO)
+
+P.IVA: 02099540979 Cod.Fisc.: 92074760486
+
+E-mail
+
+* Informazioni: [info@itpug.org](mailto: infp@itpug.org)
+* Segreteria: [segreteria@itpug.org](mailto: segreteria@itpug.org)
+* Tesoreria: [tesoreria@itpug.org](mailto: tesoreria@itpug.org)
+* PGDay.IT: [pgday@itpug.org](mailto: pgday@itpug.org)
+
+## I nostri canali di comunicazione
+
+Per essere sempre aggiornato sulle nostre attività, per perdere fantastiche opportunità di confronto su PostgreSQL e l'Open Source, seguici sui nostri social :smile:
+
+| ITPUG                                       | PGDay.IT                                         |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tags. |
+| Twitter: [@ITPUGPRESS](https://twitter.com/ITPUGPRESS) | Twitter: [@PGDayIT](https://twitter.com/PGDayIT) |
+| Linkedin: [ITPUG](https://www.linkedin.com/company/itpug) |  |
+| Facebook: [ITPUG](https://www.facebook.com/ITPUG/) |  |
+| Google+: [ITPUG](https://plus.google.com/114060631874544975126) |  |
+| Flickr: [ITPUG](http://www.flickr.com/itpug) | |
+| YouTube: | |
 
-For even more demo pages check the [posts archive][year-archive].
+## Il consiglio direttivo
 
-[header-image-post]: {{ "" | absolute_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | absolute_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | absolute_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | absolute_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | absolute_url }}
-[categories-archive]: {{ "/categories/" | absolute_url }}
-[tags-archive]: {{ "/tags/" | absolute_url }}
-[year-archive]: {{ "/year-archive/" | absolute_url }}
+Come recita lo [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Group](/assets/statuto.pdf/), Il Consiglio Direttivo è investito di ogni potere per decidere sulle iniziative da assumere e sui criteri da seguire per il conseguimento e l’attuazione degli scopi dell’associazione e per la sua direzione ed amministrazione ordinaria e straordinaria.
 
----
+L’attuale consiglio direttivo di ITPUG è composto da:
 
-## Credits
+* Marco Nenciarini, Presidente
+* Matteo Beccati, Vice-Presidente
+* Patrizia Dabizzi, Tesoriere
+* Barbara Milani, Segretario
+* Giuseppe Broccolo, Consigliere
 
-### Icons + Demo Images:
+## Soci fondatori
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
+* Gabriele Bartolini
+* Andrea Bettarini
+* Federico Campoli
+* Paolo Cavallini
+* Vincenzo Di Giovine
+* Luca Ferrari
+* Simone Martelli
+* Marco Nenciarini
+* Torello Querci
+* Matteo Sgalaberni
+* Maurizio Totti
+* Emilia Venturato
 
-### Other:
 
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+## Codice Etico
 
----
+Riconoscendo la responsabilità nel settore Information Technology per le persone ed i gruppi della comunità italiana di PostgreSQL, e convinti che si debbano incoraggiare e favorire elevati standard etici nella nostra attività di rappresentanza, adottiamo perciò il seguente “Codice di Etica” come guida e ispirazione costante, predicato secondo i principi basilari di verità, giustizia e correttezza.
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+Accrescere le conoscenze utili alla nostra attività attraverso lo studio costante e la condivisione dei risultati delle nostre esperienze con gli altri membri.
+
+Costruire un rapporto di crescente fiducia e buona volontà con il pubblico e con con tutti gli utenti del database PostgreSQL attraverso compostezza, padronanza di sé e costruttiva collaborazione.
+
+Assumere un comportamento il più possibile professionale e corretto quando si sollecita un servizio professionale o si cerca impiego, meritando così fiducia nelle nostre conoscenze e nella nostra integrità.
+
+Accettare completamente la nostra parte di responsabilità nel servizio che viene costruttivamente reso alla comunità, stato o nazione, e alla intera comunità globale.
+
+Proteggere la proprietà intellettuale degli altri facendo appello alla nostra propria capacità di innovazione, assicurando così che tutti i benefici siano conferiti al suo creatore.
+
+Promuovere ove possibile l’adozione e l’utilizzo di software open source e di formati liberi e aperti.
+
+## Ringraziamenti
+
+Si ringrazia IWA/HWG Italia per aver concesso a ITPUG di prendere il proprio codice di etica come punto di riferimento per la nostra associazione.
+
+[Isctiviti alla Community]({{ "/subscribe/" | absolute_url }}){: .btn .btn--success .btn--large}

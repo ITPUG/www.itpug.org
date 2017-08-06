@@ -20,14 +20,22 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "About"
+  #- title: "Quick-Start Guide"
+  #  url: /docs/quick-start-guide/
+  - title: "L'associzione"
     url: /about/
-  - title: "Sample Posts"
+  - title: "Iscriviti"
+    url: /subscribe/
+  - title: "PostgreSQL"
+    url: /postgresql/
+  - title: "PGDay.It"
+    url: /pgday/
+  - title: "Altri eventi"
+    url: /events/
+  - title: "Blog"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
