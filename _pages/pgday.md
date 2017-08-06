@@ -45,15 +45,15 @@ I principali "attori" del PGDay.IT sono:
 | -------------------------- | ----------------------------- | ----------------------------- |
 | 13 ottobre 2017    | [PGDay.IT 11a edizione](http://2017.pgday.it/) | Fondazione Stelline - Milano (MI) |
 | 13 dicembre 2016   | [PGDay.IT 10a edizione](http://2016.pgday.it/) | Camera di Commercio - Prato (PO) |
-| 23 ottobre 2015    | [PGDay.IT  9a edizione](http://2017.pgday.it/) | Camera di Commercio - Prato (PO) |
-| 7 novembre 2014    | [PGDay.IT  8a edizione](http://2017.pgday.it/) | PIN Polo universitario - Prato (PO) |
-| 23 ottobre 2013    | [PGDay.IT  7a edizione](http://2017.pgday.it/) | Monash University - Prato (PO) |
-| 23 novembre 2012   | [PGDay.IT  6a edizione](http://2017.pgday.it/) | Monash University - Prato (PO) |
-| 25 novembre 2011   | [PGDay.IT  5a edizione](http://2017.pgday.it/) | Monash University - Prato (PO) |
-| 12 dicembre 2010   | [PGDay.IT  4a edizione](http://2017.pgday.it/) | __________ - Roma (RM) |
-| 4 dicembre 2009    | [PGDay.IT  3a edizione](http://2017.pgday.it/) | ________ - Pisa (PI) |
-| 17-18 ottobre 2008 | [PGDay.IT  2a edizione](http://2017.pgday.it/) | Monash University - Prato (PO) |
-| 6-7 luglio 2007    | [PGDay.IT  1a edizione](http://2017.pgday.it/) | Monash University - Prato (PO) |
+| 23 ottobre 2015    | [PGDay.IT  9a edizione](http://2015.pgday.it/) | Camera di Commercio - Prato (PO) |
+| 7 novembre 2014    | [PGDay.IT  8a edizione](http://2014.pgday.it/) | PIN Polo universitario - Prato (PO) |
+| 23 ottobre 2013    | [PGDay.IT  7a edizione](http://2013.pgday.it/) | Monash University - Prato (PO) |
+| 23 novembre 2012   | [PGDay.IT  6a edizione](http://2012.pgday.it/) | Monash University - Prato (PO) |
+| 25 novembre 2011   | [PGDay.IT  5a edizione](http://2011.pgday.it/) | Monash University - Prato (PO) |
+| 12 dicembre 2010   | [PGDay.IT  4a edizione](http://2010.pgday.it/) | Centro Congressi Cavuor - Roma (RM) |
+| 4 dicembre 2009    | [PGDay.IT  3a edizione](---------) | ________ - Pisa (PI) |
+| 17-18 ottobre 2008 | [PGDay.IT  2a edizione](---------) | Monash University - Prato (PO) |
+| 6-7 luglio 2007    | [PGDay.IT  1a edizione](---------) | Monash University - Prato (PO) |
 
 ## Alcuni articoli che ci riportano indietro con la memoria:
 
