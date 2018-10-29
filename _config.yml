@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "it-IT"
 title                    : "ITPUG"
 title_separator          : "-"
 name                     : &name "" # &name is a YAML anchor which can be *referenced later
