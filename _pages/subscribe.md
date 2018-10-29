@@ -38,7 +38,9 @@ IBAN: IT55U 08673 21502 075000 401248
 
 BIC: ICRAITRRIP0
 
-Se la preferenza è PayPal, basterà cliccare qui:
+Se la preferenza è PayPal, basterà cliccare sul bottone "Paga adesso":
+
+{% include paypal_button.html %}
 
 ## Step 3: I tuoi dati anagrafici
 
