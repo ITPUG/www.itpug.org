@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "ITPUGPRESS"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : &facebook "ITPUG"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -88,16 +88,16 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "itpug"
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "ITPUG"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        : "mmistakes"
   lastfm           :
-  linkedin         :
+  linkedin         : "itpug"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -107,7 +107,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "UCAJ1P67u3qQyLpLm5bvPNPw"
 
 
 # Reading Files
