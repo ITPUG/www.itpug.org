@@ -48,7 +48,7 @@ Appena ci perverranno i tuoi dati, ti daremo conferma della tua regolare iscrizi
 
 Importante: I dati devono essere completi e veritieri. Nel caso non risultassero corretti, l'iscrizione non risulterà valida, e non è previsto alcun rimborso della quota versata.
 
-[Inserisci qui i tuoi dati]({{ "_layouts/subscribe.html"}}){: .btn .btn--success .btn--large}
+[Inserisci qui i tuoi dati](https://docs.google.com/forms/d/e/1FAIpQLSdNePyXs8jA6PiqT99k9ncB4ZZzkMcJ_f3Zi40LA302xGGtAg/viewform){:target="_blank" .btn .btn--success .btn--large}
 
  Presto ti daremo il benvenuto ufficiale all'interno della Community Italiana di PostgreSQL.
 
