@@ -30,7 +30,7 @@ main:
     url: /postgresql/
   - title: "PGDay.It"
     url: /pgday/
-  - title: "Altri eventi"
+  - title: "Promuovere PostgreSQL e l'Open Source"
     url: /events/
   - title: "Blog"
     url: http://blog.itpug.org/
