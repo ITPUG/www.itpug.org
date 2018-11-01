@@ -42,7 +42,7 @@ feature_row:
     alt: "customizable"
     title: "Blog"
     excerpt: "Leggi i post scritti dagli appartenenti alla Community italiana, inviaci un tuo articolo, e seguici sui nostri social"
-    url: "/year-archive/"
+    url: "http://blog.itpug.org/"
     btn_label: "Scopri di più"
 
 github:
