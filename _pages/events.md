@@ -1,6 +1,6 @@
 ---
 permalink: /events/
-title: "Altri eventi"
+title: "Promuoviamo PostgreSQL e l'Open Source"
 excerpt: "ITalian PostgreSQL Users Group"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -17,7 +17,7 @@ last_modified_at: 2017-08-05T14:28:13-05:00
 
 {% include gallery id="layouts_gallery" caption="Facilmente riconoscibili: `PostgreSQL`, `ITPUG`, `Community`" %}
 
-## Progetto SMAU ICT
+## Promuovere PostgreSQL e 
 
 Il 24, 25 e 26 ottobre 2017 a Milano si svolge lo [SMAU](http://www.smau.it/company/pages/home/) la manifestazione
 
