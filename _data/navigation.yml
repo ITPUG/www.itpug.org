@@ -33,7 +33,7 @@ main:
   - title: "Altri eventi"
     url: /events/
   - title: "Blog"
-    url: /year-archive/
+    url: http://blog.itpug.org/
 #  - title: "Sample Collections"
 #    url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
