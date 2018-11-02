@@ -15,7 +15,7 @@ layouts_gallery:
 last_modified_at: 2017-08-05T14:28:13-05:00
 ---
 
-{% include gallery id="layouts_gallery" caption="Facilmente riconoscibili: `PostgreSQL`, `ITPUG`, `Community`" %}
+{% include gallery id="layouts_gallery" caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
 ## Promuovere PostgreSQL e l'Open Source
 
@@ -31,4 +31,4 @@ I volontari che si proporranno per la partecipazione a questi eventi, riceverann
 
 Pegno da pagare: foto e piccolo racconto di quanto accaduto per il nostro [blog](http://blog.itpug.org/) :smile:.
 
-[Una bacheca](/pages/bacheca/) con le proposte pervenute, segnalerà gli eventi, le conferenze e gli incontri programmati. Chiunque vorrà proporsi per la partecipazione sarà il benvenuto! 
+[Una bacheca](/pages/bacheca/) con le proposte pervenute, segnalerà gli eventi, le conferenze e gli incontri programmati. Chiunque vorrà proporsi per la partecipazione sarà il benvenuto!
