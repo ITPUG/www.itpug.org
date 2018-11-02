@@ -23,6 +23,9 @@ Il primo PGDay[^footnote] si è svolto il 6 e il 7 luglio 2007 presso la Monash 
 
 L'evento è stato promosso ed organizzato dagli utenti e sviluppatori italiani di PostgreSQL in collaborazione con Prato Linux User Group.
 
+<iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=171502" frameborder="0" allowfullscreen></iframe>
+<div><a  style="font-size: 12px; text-decoration: none;" title="Powered by Time.Graphics" href="https://time.graphics">Powered by Time.Graphics</a></div>
+
 La prima edizione del PGDay[^footnote] è stata molto importante, non solo perché è stato il primo a livello Europeo, ma ha anche permesso di porre le basi per la creazione dell'associazione "PostgreSQL Europe". Infatti, alcuni membri fondatori di ITPUG hanno partecipato alla creazione della Comunità Europea che organizza ogni anno il PGConf, una conferenza europea focalizzata su PostgreSQL, che vanta oltre 400 partecipanti ad ogni sua edizione.
 
 Nell’ottobre 2008, il 17 e 18, ebbe luogo a Prato l’European PGDay che includeva sia un programma italiano che un programma Europeo (lingua inglese) in parallelo. Il programma Italiano  fu definito e gestito dai membri ITPUG e PLUG (Prato Linux User Group), mentre il programma europeo fu definito e gestito da membri del gruppo PostgreSQL Europe, sempre con il supporto di ITPUG e PLUG.
