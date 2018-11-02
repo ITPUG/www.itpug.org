@@ -120,10 +120,10 @@ gallery:
     title: "Image 3 title caption"
 ```
 
-And then drop-in the gallery include in the body where you'd like it to appear. 
+And then drop-in the gallery include in the body where you'd like it to appear.
 
 | Include Parameter | Required    | Description | Default |
-| ----------------- | --------    | ----------- | ------- | 
+| ----------------- | --------    | ----------- | ------- |
 | **id**            | Optional    | To add multiple galleries to a document uniquely name them in the YAML Front Matter and reference in `{% raw %}{% include gallery id="gallery_id" %}{% endraw %}` | `gallery` |
 | **class**         | Optional    | Use to add a `class` attribute to the surrounding `<figure>` element for additional styling needs. | |
 | **caption**       | Optional    | Gallery caption description. Markdown is allowed. | |
@@ -136,8 +136,6 @@ And then drop-in the gallery include in the body where you'd like it to appear.
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-**More Gallery Goodness:** A few more examples and [source code](https://github.com/{{ site.repository }}/blob/master/docs/_posts/2010-09-09-post-gallery.md) can be seen in [this sample gallery post]({{ "" | absolute_url }}{% post_url 2010-09-09-post-gallery %}).
-{: .notice--info}
 
 ## Feature Row
 
@@ -200,7 +198,7 @@ Embed a video from YouTube or Vimeo that responsively sizes to fit the width of 
 
 ### YouTube
 
-To embed the following YouTube video at url `https://www.youtube.com/watch?v=XsxDH4HcOWA` (long version) or `https://youtu.be/XsxDH4HcOWA` (short version) into a post or page's main content you'd use: 
+To embed the following YouTube video at url `https://www.youtube.com/watch?v=XsxDH4HcOWA` (long version) or `https://youtu.be/XsxDH4HcOWA` (short version) into a post or page's main content you'd use:
 
 ```liquid
 {% raw %}{% include video id="XsxDH4HcOWA" provider="youtube" %}{% endraw %}
@@ -219,7 +217,7 @@ header:
 
 ### Vimeo
 
-To embed the following Vimeo video at url `https://vimeo.com/97649261` into a post or page's main content you'd use: 
+To embed the following Vimeo video at url `https://vimeo.com/97649261` into a post or page's main content you'd use:
 
 ```liquid
 {% raw %}{% include video id="97649261" provider="vimeo" %}{% endraw %}
