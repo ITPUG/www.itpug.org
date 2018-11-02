@@ -30,14 +30,22 @@ main:
     url: /postgresql/
   - title: "PGDay.It"
     url: /pgday/
-  - title: "Altri eventi"
-    url: /events/
   - title: "Blog"
     url: http://blog.itpug.org/
+  - title: ""
+    url:
+  - title: ""
+    url:           
+  - title: "Altri eventi"
+    url: /events/
+  - title: "Bacheca"
+    url: /bacheca/
+  - title: "Quiz"
+    url: /quiz/
 #  - title: "Sample Collections"
 #    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  - title: "Privacy &amp; GDPR"
+    url: /privacy/
 
 
 # documentation links
