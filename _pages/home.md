@@ -28,22 +28,40 @@ feature_row:
     btn_label: "Scopri di più"
   - image_path: /assets/images/suscribe.png
     alt: "customizable"
-    title: "Iscriviti"
+    title: "Iscriviti!"
     excerpt: "Entra a far parte della nostra Community. Dai anche tu il tuo supporto nella promozione dell'Open Source."
     url: "/subscribe/"
     btn_label: "Scopri di più"
   - image_path: /assets/images/events.png
     alt: "customizable"
     title: "Altri eventi"
-    excerpt: "ITPUG organizza e partecipa ad altre manifestazioni, promuovendo l'adozione di PostgreSQL."
+    excerpt: "ITPUG partecipa ad altre manifestazioni per la promozione di PostgreSQL. Segnalaci le tue proposte."
     url: "/events/"
+    btn_label: "Scopri di più"
+  - image_path: /assets/images/bacheca.png
+    alt: "customizable"
+    title: "Bacheca"
+    excerpt: "Eventi ed altre attività. Proposte pervenute, eventi programmati. Tutto in attesa della tua candidatura."
+    url: "/bacheca/"
+    btn_label: "Scopri di più"    
+  - image_path: /assets/images/quiz.png
+    alt: "customizable"
+    title: "Quiz"
+    excerpt: "Non si tratta di quiz a premi e neppure di sondaggi. Raccogliamo le vostre considerazioni, anche in forma ironica."
+    url: "/quiz/"
     btn_label: "Scopri di più"
   - image_path: /assets/images/blog.png
     alt: "customizable"
     title: "Blog"
-    excerpt: "Leggi i post scritti dagli appartenenti alla Community italiana, inviaci un tuo articolo, e seguici sui nostri social"
+    excerpt: "I post della Community Italiana. Tutti i soci sono inviati a collaborare. Inviateci i vostri articoli per email: info@itpug.org"
     url: "http://blog.itpug.org/"
-    btn_label: "Scopri di più"
+    btn_label: "Scopri di più"  
+  - image_path: /assets/images/gdpr.png
+    alt: "customizable"
+    title: "Privacy e GDPR"
+    excerpt: "Non potevamo esimerci dall'adempiere a questa normativa. Invitiamo i nostri associati a leggerne i contenuti."
+    url: "/privacy/"
+    btn_label: "Scopri di più"       
 
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'

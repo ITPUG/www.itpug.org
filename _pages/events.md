@@ -17,14 +17,18 @@ last_modified_at: 2017-08-05T14:28:13-05:00
 
 {% include gallery id="layouts_gallery" caption="Facilmente riconoscibili: `PostgreSQL`, `ITPUG`, `Community`" %}
 
-## Promuovere PostgreSQL e 
+## Promuovere PostgreSQL e l'Open Source
 
-Il 24, 25 e 26 ottobre 2017 a Milano si svolge lo [SMAU](http://www.smau.it/company/pages/home/) la manifestazione
+Fondamentale per la nostra Associazione, poter presenziare anche ad altri eventi, conferenze, incontri.
 
-è il secondo anno che lo [SMAU](http://www.smau.it/company/search/?csrfmiddlewaretoken=9c1899072884ee7b695a3f5ffa584815&q=open+source#exhibitors) dedica spazio all'Open Source ed in modo particolare un'area riservata alle Community che ne fanno parte.
+La partecipazione ad altri eventi, rafforza il nostro i nostri sforzi nella promozione di PostgreSQL e l'Open Source.
 
-L'area community è pensata per creare un momento di networking tra community, user group e associazioni inerenti all'ambito ICT.
+Per riuscirci, occorre che i nostri associati siano sempre più propositivi. Segnalando eventi, conferenze, incontri e proponendosi nel rappresentare ITPUG - ITalian PostgreSQL Users Group.
 
-Noi dell'ITPUG, la Community Italiana di PostgreSQL, ITPUG, saremo presenti per la prima volta a questa manifestazione. :smile:.
+Per segnalare le proposte è molto facile. Basta [compilare l'apposito form](https://docs.google.com/forms/d/e/1FAIpQLSdfePlsGR-HzfXJbmrrdy7O8DfEREP9SSZ-4zxSWXYOlrVg9A/viewform) o inviare le stesse informazioni direttamente a mezzo [email](mailto:info@itpug.org).
 
-Occasione per un nuovo incontro ma soprattutto una grande occasione per divulgare PostgreSQL!
+I volontari che si proporranno per la partecipazione a questi eventi, riceveranno il materiale promozionale necessario per presenziare alla manifestazione.
+
+Pegno da pagare: foto e piccolo racconto di quanto accaduto per il nostro [blog](http://blog.itpug.org/) :smile:.
+
+[Una bacheca](/pages/bacheca/) con le proposte pervenute, segnalerà gli eventi, le conferenze e gli incontri programmati. Chiunque vorrà proporsi per la partecipazione sarà il benvenuto! 
