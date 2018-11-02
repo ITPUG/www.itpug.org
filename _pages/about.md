@@ -21,7 +21,7 @@ ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la prom
 
 In modo particolare, l’associazione ITPUG, promuove l’adozione di [PostgreSQL](https://www.postgresql.org/), uno dei progetti open source di maggior successo.
 
-ITPUG nasce a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del [PGDay](/pgday/).
+ITPUG nasce a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del [PGDay](https://pgday.it/).
 
 Principali obiettivi dell'Associazione:
 * Promuovere PostgreSQL con professionalità verso:
@@ -66,11 +66,11 @@ Per essere sempre aggiornato sulle nostre attività, per perdere fantastiche opp
 | Facebook: [ITPUG](https://www.facebook.com/ITPUG/) |  |
 | Google+: [ITPUG](https://plus.google.com/114060631874544975126) |  |
 | Flickr: [ITPUG](http://www.flickr.com/itpug) | |
-| YouTube: | |
+| YouTube: [ITPUG](https://www.youtube.com/channel/UCAJ1P67u3qQyLpLm5bvPNPw)| |
 
 ## Il consiglio direttivo
 
-Come recita lo [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Group](/assets/statuto.pdf/), Il Consiglio Direttivo è investito di ogni potere per decidere sulle iniziative da assumere e sui criteri da seguire per il conseguimento e l’attuazione degli scopi dell’associazione e per la sua direzione ed amministrazione ordinaria e straordinaria.
+Come recita lo [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Group](/assets/statuto.pdf), Il Consiglio Direttivo è investito di ogni potere per decidere sulle iniziative da assumere e sui criteri da seguire per il conseguimento e l’attuazione degli scopi dell’associazione e per la sua direzione ed amministrazione ordinaria e straordinaria.
 
 L’attuale consiglio direttivo di ITPUG è composto da:
 
