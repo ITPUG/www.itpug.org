@@ -43,6 +43,8 @@ I principali "attori" del PGDay.IT sono:
 
 | Data                     | Edizione                     | Dove                     |
 | -------------------------- | ----------------------------- | ----------------------------- |
+| 16 e 17 maggio 2019    | [PGDay.IT 13a edizione](http://2019.pgday.it/) | Admiral Park Hotel - Bologna (BO) |
+| 28 e 29 giugno 2018    | [PGDay.IT 12a edizione](http://2018.pgday.it/) | Hotel Parchi del Garda - Lazise (VR) |
 | 13 ottobre 2017    | [PGDay.IT 11a edizione](http://2017.pgday.it/) | Fondazione Stelline - Milano (MI) |
 | 13 dicembre 2016   | [PGDay.IT 10a edizione](http://2016.pgday.it/) | Camera di Commercio - Prato (PO) |
 | 23 ottobre 2015    | [PGDay.IT  9a edizione](http://2015.pgday.it/) | Camera di Commercio - Prato (PO) |
