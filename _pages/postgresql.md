@@ -15,7 +15,7 @@ layouts_gallery:
 last_modified_at: 2017-08-05T14:28:13-05:00
 ---
 
-{% include gallery id="layouts_gallery" caption="Facilmente riconoscibili: `PostgreSQL`, `ITPUG`, `Community`" %}
+{% include gallery id="layouts_gallery" caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
 PostgreSQL è un potente database-relazionale open source.
 
@@ -56,6 +56,7 @@ Grazie al contributo di centinaia di sviluppatori provenienti da tutto il mondo,
 
 Oggi PostgreSQL è uno dei progetti Open Source di maggior successo.
 
+* 2018: **PostgreSQL 11**
 * 2017: **PostgreSQL 10**
 * 2016: **PostgreSQL 9.6** Parallel Queries, Multi sync standby servers, Smarter Foreign Data Wrappers, Phrase search
 * 2016: **PostgreSQL 9.5** “Upsert” (INSERT ... ON CONFLICT), BRIN (Block Range Indexes), pg_rewind, Import Foreign Schema, Inheritance with foreign tables
