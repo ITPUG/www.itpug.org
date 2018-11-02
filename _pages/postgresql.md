@@ -21,6 +21,9 @@ PostgreSQL è un potente database-relazionale open source.
 
 Vanta più di 15 anni di sviluppo attivo e un'architettura collaudata che gli ha fatto guadagnare una consolidata reputazione di affidabilità, integrità dei dati oltre che a livello di correttezza.
 
+<iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=171601" frameborder="0" allowfullscreen></iframe>
+<div><a  style="font-size: 12px; text-decoration: none;" title="Roadmap timeline" href="https://time.graphics">Roadmap timeline</a></div>
+
 Funziona su tutti i principali sistemi operativi, tra cui Linux, UNIX (AIX, BSD, HP-UX, SGI IRIX, MacOS, Solaris, Tru64) e Windows.
 
 ACID completamente compatibile, ha un pieno supporto per le chiavi esterne, unisce, visualizza, attiva e memorizza le procedure (in più lingue). Include la maggior parte dei tipi di dati SQL: 2008, inclusi INTEGER, NUMERIC, BOOLEAN, CHAR, VARCHAR, DATE, INTERVAL e TIMESTAMP.
