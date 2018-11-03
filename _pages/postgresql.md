@@ -61,25 +61,25 @@ Grazie al contributo di centinaia di sviluppatori provenienti da tutto il mondo,
 
 Oggi PostgreSQL è uno dei progetti Open Source di maggior successo.
 
-* 2018: **PostgreSQL 11**
-* 2017: **PostgreSQL 10**
-* 2016: **PostgreSQL 9.6** Parallel Queries, Multi sync standby servers, Smarter Foreign Data Wrappers, Phrase search
-* 2016: **PostgreSQL 9.5** “Upsert” (INSERT ... ON CONFLICT), BRIN (Block Range Indexes), pg_rewind, Import Foreign Schema, Inheritance with foreign tables
-* 2014: **PostgreSQL 9.4** Logical replication, Replication slots, JSONB
-* 2013: **PostgreSQL 9.3** Writable Foreign Data Wrappers, Materialised Views, JSON functions and operators, LATERAL
-* 2012: **PostgreSQL 9.2** Cascading Replication, Index-Only scans, pg_stat_statements, JSON, Ranges
-* 2011: **PostgreSQL 9.1** Synchronous Replication, Writable CTEs, Extensions, Foreign Data, Wrappers, Unlogged tables, Serialisable Snapshot Isolation, Column collations
-* 2010: **PostgreSQL 9.0** HOT Standby, Streaming Replication, Column Triggers, Conditional Triggers, hstore
-* 2009: **PostgreSQL 8.4** Window functions, CTEs, Database collations, Per-Column permissions
-* 2008: **PostgreSQL 8.3** HOT updates, Asynchronous commit. XML, Fulltext search, Distribuited checkpoints
-* 2007: **PostgreSQL 8.2** Warm Standby, SQL 2003, Concurrent Index Builds, GIN index
-* 2005: **PostgreSQL 8.1** Table partitioning, Bitmap scans, Two-Phase commits, autovacuum
-* 2005: **PostgreSQL 8.0** PITR, Tablespace, Windows support, Savepoints
+* **2018 (18 ottobre)**: **[PostgreSQL 11](https://www.postgresql.org/about/press/presskit11/it/){:target="_blank"}**
+* **2017 (5 ottobre)**: **[PostgreSQL 10](https://www.postgresql.org/about/press/presskit10/it/){:target="_blank"}**
+* **2016 (29 settembre)**: **[PostgreSQL 9.6](https://www.postgresql.org/about/press/presskit96/it/){:target="_blank"}** Parallel Queries, Multi sync standby servers, Smarter Foreign Data Wrappers, Phrase search
+* **2016 (7 gennaio)**: **[PostgreSQL 9.5](https://www.postgresql.org/about/press/presskit95/it/){:target="_blank"}** “Upsert” (INSERT ... ON CONFLICT), BRIN (Block Range Indexes), pg_rewind, Import Foreign Schema, Inheritance with foreign tables
+* **2014 (18 dicembre)**: **[PostgreSQL 9.4](https://www.postgresql.org/about/press/presskit94/it/){:target="_blank"}** Logical replication, Replication slots, JSONB
+* **2013 (9 settembre)**: **[PostgreSQL 9.3](https://www.postgresql.org/about/press/presskit93/it/){:target="_blank"}** Writable Foreign Data Wrappers, Materialised Views, JSON functions and operators, LATERAL
+* **2012 (10 settembre)**: **[PostgreSQL 9.2](https://www.postgresql.org/about/press/presskit92/it/){:target="_blank"}** Cascading Replication, Index-Only scans, pg_stat_statements, JSON, Ranges
+* **2011 (12 settembre)**: **[PostgreSQL 9.1](https://www.postgresql.org/about/press/presskit91/it/){:target="_blank"}** Synchronous Replication, Writable CTEs, Extensions, Foreign Data, Wrappers, Unlogged tables, Serialisable Snapshot Isolation, Column collations
+* **2010 (20 settembre)**: **[PostgreSQL 9.0](https://www.postgresql.org/about/press/presskit90/it/){:target="_blank"}** HOT Standby, Streaming Replication, Column Triggers, Conditional Triggers, hstore
+* **2009 (1° luglio)**: **[PostgreSQL 8.4](https://www.postgresql.org/about/news/1108/){:target="_blank"}** Window functions, CTEs, Database collations, Per-Column permissions
+* 2008 (4 febbraio): **[PostgreSQL 8.3](https://www.postgresql.org/about/news/918/){:target="_blank"}** HOT updates, Asynchronous commit. XML, Fulltext search, Distribuited checkpoints
+* 2006 (5 dicembre): **PostgreSQL 8.2** Warm Standby, SQL 2003, Concurrent Index Builds, GIN index
+* 2005 (8 novembre): **PostgreSQL 8.1** Table partitioning, Bitmap scans, Two-Phase commits, autovacuum
+* 2005 (19 gennaio): **PostgreSQL 8.0** PITR, Tablespace, Windows support, Savepoints
 * 2000: Dal 2000 al 2005 vengono rilasciate 5 nuove release: **PostgreSQL 7**
 * 1997: Dal 1997 al 2000 vengono rilasciate 6 nuove release: **PostgreSQL 6**
 * 1995: 1° maggio 1995: il progetto **Postgre95 V0.01** parte e successivamente diventa -> **PostgreSQL 1.0**
-* 1994 – 1995: **Postgres95** (Jolly Chen e Andrew Yu)
-* 1986 – 1993: **University Postgres** [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker){:target="_blank"}
+* **1994 – 1995**: **[Postgres95](https://www.postgresql.org/docs/8.4/static/history.html){:target="_blank"}** (Jolly Chen e Andrew Yu)
+* 1986 – 1993: **[University of California at Berkeley](https://www.postgresql.org/docs/8.4/static/history.html){:target="_blank"}** ([Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker){:target="_blank"})
 
 ## Per i più curiosi: le fasi dello sviluppo di PostgreSQL
 
