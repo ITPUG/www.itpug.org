@@ -15,7 +15,7 @@ layouts_gallery:
 last_modified_at: 2017-08-04T14:28:13-05:00
 ---
 
-![ITPUG]({{site.baseurl}}/assets/images/ITPUG.jpg)
+![ITPUG]({{site.baseurl}}/assets/images/itpug.jpg)
 
 {% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
