@@ -35,11 +35,11 @@ main:
   - title: ""
     url:
   - title: ""
-    url:           
-  - title: "Altri eventi"
-    url: /events/
+    url:
   - title: "Bacheca"
     url: /bacheca/
+  - title: "Altri eventi"
+    url: /events/    
   - title: "Quiz"
     url: /quiz/
 #  - title: "Sample Collections"
