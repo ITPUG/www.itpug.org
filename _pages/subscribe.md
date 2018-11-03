@@ -23,8 +23,8 @@ Pochi step e farai parte della Community Italiana dedicata a PostgreSQL
 
 ## Step 1: Lettura dello Statuto e della Privacy
 
-* [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Group](/assets/statuto.pdf/)
-* [Privacy](/terms/)
+* [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Group](/assets/statuto.pdf/){:target="_blank"}
+* [Privacy](/privacy/){:target="_blank"}
 
 ## Step 2: Pagamento della quota sociale
 

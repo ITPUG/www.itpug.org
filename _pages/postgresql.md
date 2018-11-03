@@ -17,7 +17,7 @@ last_modified_at: 2017-08-05T14:28:13-05:00
 
 {% include gallery id="layouts_gallery" caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
-PostgreSQL è un potente database-relazionale open source.
+[PostgreSQL](https://www.postgresql.org/){:target="_blank"} è un potente database-relazionale open source.
 
 Vanta più di 15 anni di sviluppo attivo e un'architettura collaudata che gli ha fatto guadagnare una consolidata reputazione di affidabilità, integrità dei dati oltre che a livello di correttezza.
 
@@ -77,7 +77,7 @@ Oggi PostgreSQL è uno dei progetti Open Source di maggior successo.
 * 1997: Dal 1997 al 2000 vengono rilasciate 6 nuove release: **PostgreSQL 6**
 * 1995: 1° maggio 1995: il progetto **Postgre95 V0.01** parte e successivamente diventa -> **PostgreSQL 1.0**
 * 1994 – 1995: **Postgres95** (Jolly Chen e Andrew Yu)
-* 1986 – 1993: **University Postgres** [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker)
+* 1986 – 1993: **University Postgres** [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker){:target="_blank"}
 
 ## Per i più curiosi: le fasi dello sviluppo di PostgreSQL
 

@@ -33,7 +33,7 @@ Grazie a tutti!!!
 
 Che siano Open o Proprietari, cerchiamo di capire insieme come vengono percepiti sei tra i più noti DB.
 
-Come riferimento, nel menzionarli, useremo [DB-Engines Ranking](https://db-engines.com/en/ranking).
+Come riferimento, nel menzionarli, useremo [DB-Engines Ranking](https://db-engines.com/en/ranking){:target="_blank"}.
 
 [Valutiamo sei dei più noti DB](https://docs.google.com/forms/d/e/1FAIpQLScb0NZXLxAnZrM4HqBaln8m0MgjxOMPjVJ7iKQLxA3m6K_ibA/viewform){:target="_blank" .btn .btn--success .btn--large}
 
@@ -53,6 +53,6 @@ Parlare di database è un argomento interessante? In ambito ITC, dove tutto corr
 
 ### Lista dei desideri
 
-In un ipotetico incontro con "Mr. PostgreSQL" avremmo la possibilità di richiedere funzionalità che ad oggi non sono disponibili. Quali sarebbero le vostre richieste? Magari vi ascolta :smile: 
+In un ipotetico incontro con "Mr. PostgreSQL" avremmo la possibilità di richiedere funzionalità che ad oggi non sono disponibili. Quali sarebbero le vostre richieste? Magari vi ascolta :smile:
 
 [Caro "Mr. PostgreSQL" vorrei tanto ...](https://docs.google.com/forms/d/e/1FAIpQLScErTAKHgK-jMI4RmY7Fp5jAKOsCMBBcxpdBALoqAqRDvDKug/viewform){:target="_blank" .btn .btn--success .btn--large}

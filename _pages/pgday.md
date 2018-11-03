@@ -46,35 +46,35 @@ I principali "attori" del PGDay.IT sono:
 
 | Data                     | Edizione                     | Dove                     |
 | -------------------------- | ----------------------------- | ----------------------------- |
-| 16 e 17 maggio 2019    | [PGDay.IT 13a edizione](http://2019.pgday.it/) | Admiral Park Hotel - Bologna (BO) |
-| 28 e 29 giugno 2018    | [PGDay.IT 12a edizione](http://2018.pgday.it/) | Hotel Parchi del Garda - Lazise (VR) |
-| 13 ottobre 2017    | [PGDay.IT 11a edizione](http://2017.pgday.it/) | Fondazione Stelline - Milano (MI) |
-| 13 dicembre 2016   | [PGDay.IT 10a edizione](http://2016.pgday.it/) | Camera di Commercio - Prato (PO) |
-| 23 ottobre 2015    | [PGDay.IT  9a edizione](http://2015.pgday.it/) | Camera di Commercio - Prato (PO) |
-| 7 novembre 2014    | [PGDay.IT  8a edizione](http://2014.pgday.it/) | PIN Polo universitario - Prato (PO) |
-| 23 ottobre 2013    | [PGDay.IT  7a edizione](http://2013.pgday.it/) | Monash University - Prato (PO) |
-| 23 novembre 2012   | [PGDay.IT  6a edizione](http://2012.pgday.it/) | Monash University - Prato (PO) |
-| 25 novembre 2011   | [PGDay.IT  5a edizione](http://2011.pgday.it/) | Monash University - Prato (PO) |
-| 12 dicembre 2010   | [PGDay.IT  4a edizione](http://2010.pgday.it/) | Centro Congressi Cavuor - Roma (RM) |
+| 16 e 17 maggio 2019    | [PGDay.IT 13a edizione](http://2019.pgday.it/){:target="_blank"} | Admiral Park Hotel - Bologna (BO) |
+| 28 e 29 giugno 2018    | [PGDay.IT 12a edizione](http://2018.pgday.it/){:target="_blank"} | Hotel Parchi del Garda - Lazise (VR) |
+| 13 ottobre 2017    | [PGDay.IT 11a edizione](http://2017.pgday.it/){:target="_blank"} | Fondazione Stelline - Milano (MI) |
+| 13 dicembre 2016   | [PGDay.IT 10a edizione](http://2016.pgday.it/){:target="_blank"} | Camera di Commercio - Prato (PO) |
+| 23 ottobre 2015    | [PGDay.IT  9a edizione](http://2015.pgday.it/){:target="_blank"} | Camera di Commercio - Prato (PO) |
+| 7 novembre 2014    | [PGDay.IT  8a edizione](http://2014.pgday.it/){:target="_blank"} | PIN Polo universitario - Prato (PO) |
+| 23 ottobre 2013    | [PGDay.IT  7a edizione](http://2013.pgday.it/){:target="_blank"} | Monash University - Prato (PO) |
+| 23 novembre 2012   | [PGDay.IT  6a edizione](http://2012.pgday.it/){:target="_blank"} | Monash University - Prato (PO) |
+| 25 novembre 2011   | [PGDay.IT  5a edizione](http://2011.pgday.it/){:target="_blank"} | Monash University - Prato (PO) |
+| 12 dicembre 2010   | [PGDay.IT  4a edizione](http://2010.pgday.it/){:target="_blank"} | Centro Congressi Cavuor - Roma (RM) |
 | 4 dicembre 2009    | [PGDay.IT  3a edizione](---------) | ________ - Pisa (PI) |
 | 17-18 ottobre 2008 | [PGDay.IT  2a edizione](---------) | Monash University - Prato (PO) |
 | 6-7 luglio 2007    | [PGDay.IT  1a edizione](---------) | Monash University - Prato (PO) |
 
 ## Alcuni articoli che ci riportano indietro con la memoria:
 
-* [Anno 2007: PostgreSQL.org](http://web.archive.org/web/20070609171626/http://www.postgresql.org:80/)
-* [Gennaio 2007: Cos'è il PGDay ?](http://web.archive.org/web/20070601184007/http://www.pgday.it:80/)
-* [Febbraio 2007: About PGDay](http://web.archive.org/web/20070617204140/http://www.pgday.it:80/en)
-* [Marzo 2007: Aderisci a Road to PGDay 2007 !](http://www.psql.it/?q=node/42)
-* [Marzo 2007: Plug Road To PGDay](http://web.archive.org/web/20070706024853/http://www.prato.linux.it/node/29)
-* [Maggio 2007: European open source community meets at Prato](http://adm.monash.edu/records-archives/archives/memo-archive/2004-2007/stories/20070509/prato.html)
-* [Maggio 2007: Interview with the organisers of PostgreSQL Day 2007](http://web.archive.org/web/20080704145429/http://www.freesoftwaremagazine.com/columns/pgday_2007)
-* [Maggio 2007: Interview with the organisers of PostgreSQL Day 2007](http://web.archive.org/web/20070826195418/http://www.freesoftwaremagazine.com:80/blogs/pgday_2007)
-* [Giugno 2007: Comunicato stampa](http://dev.enricopirozzi.info/psqlit/files/comunicato_stampa_070607.pdf)
-* [Luglio 2007: Chiuso il PGDay 2007 tra la grande soddisfazione di organizzatori e partecipanti](http://www.bricoliamo.com/rotocalco/eventi-e-fiere/chiuso-il-pgday-2007-tra-la-grande-soddisfazione-di-organizzatori-e-partecipanti/#.WV43rhPyhTY)
-* [Anno 2008: About European PGDay 2008](https://www.postgresql.org/about/event/698/)
-* [Giugno 2008: Secondo convegno italiano dedicato a PostgreSQL - PGDay 2008](http://www.psql.it/?q=node/152)
-* [Ottobre 2008: Il Comune di Prato capitale d'Europa per l'open source](http://comunicati.comune.prato.it/generali/?action=dettaglio&comunicato=14200800001006)
+* [Anno 2007: PostgreSQL.org](http://web.archive.org/web/20070609171626/http://www.postgresql.org:80/){:target="_blank"}
+* [Gennaio 2007: Cos'è il PGDay ?](http://web.archive.org/web/20070601184007/http://www.pgday.it:80/){:target="_blank"}
+* [Febbraio 2007: About PGDay](http://web.archive.org/web/20070617204140/http://www.pgday.it:80/en){:target="_blank"}
+* [Marzo 2007: Aderisci a Road to PGDay 2007 !](http://www.psql.it/?q=node/42){:target="_blank"}
+* [Marzo 2007: Plug Road To PGDay](http://web.archive.org/web/20070706024853/http://www.prato.linux.it/node/29){:target="_blank"}
+* [Maggio 2007: European open source community meets at Prato](http://adm.monash.edu/records-archives/archives/memo-archive/2004-2007/stories/20070509/prato.html){:target="_blank"}
+* [Maggio 2007: Interview with the organisers of PostgreSQL Day 2007](http://web.archive.org/web/20080704145429/http://www.freesoftwaremagazine.com/columns/pgday_2007){:target="_blank"}
+* [Maggio 2007: Interview with the organisers of PostgreSQL Day 2007](http://web.archive.org/web/20070826195418/http://www.freesoftwaremagazine.com:80/blogs/pgday_2007){:target="_blank"}
+* [Giugno 2007: Comunicato stampa](http://dev.enricopirozzi.info/psqlit/files/comunicato_stampa_070607.pdf){:target="_blank"}
+* [Luglio 2007: Chiuso il PGDay 2007 tra la grande soddisfazione di organizzatori e partecipanti](http://www.bricoliamo.com/rotocalco/eventi-e-fiere/chiuso-il-pgday-2007-tra-la-grande-soddisfazione-di-organizzatori-e-partecipanti/#.WV43rhPyhTY){:target="_blank"}
+* [Anno 2008: About European PGDay 2008](https://www.postgresql.org/about/event/698/){:target="_blank"}
+* [Giugno 2008: Secondo convegno italiano dedicato a PostgreSQL - PGDay 2008](http://www.psql.it/?q=node/152){:target="_blank"}
+* [Ottobre 2008: Il Comune di Prato capitale d'Europa per l'open source](http://comunicati.comune.prato.it/generali/?action=dettaglio&comunicato=14200800001006){:target="_blank"}
 
 Buona lettura a tutti! :smile:
 

@@ -25,10 +25,10 @@ La partecipazione ad altri eventi, rafforza il nostro i nostri sforzi nella prom
 
 Per riuscirci, occorre che i nostri associati siano sempre più propositivi. Segnalando eventi, conferenze, incontri e proponendosi nel rappresentare ITPUG - ITalian PostgreSQL Users Group.
 
-Per segnalare le proposte è molto facile. Basta [compilare l'apposito form](https://docs.google.com/forms/d/e/1FAIpQLSdfePlsGR-HzfXJbmrrdy7O8DfEREP9SSZ-4zxSWXYOlrVg9A/viewform) o inviare le stesse informazioni direttamente a mezzo [email](mailto:info@itpug.org).
+Per segnalare le proposte è molto facile. Basta [compilare l'apposito form](https://docs.google.com/forms/d/e/1FAIpQLSdfePlsGR-HzfXJbmrrdy7O8DfEREP9SSZ-4zxSWXYOlrVg9A/viewform){:target="_blank"} o inviare le stesse informazioni direttamente a mezzo [email](mailto:info@itpug.org).
 
 I volontari che si proporranno per la partecipazione a questi eventi, riceveranno il materiale promozionale necessario per presenziare alla manifestazione.
 
-Pegno da pagare: foto e piccolo racconto di quanto accaduto per il nostro [blog](http://blog.itpug.org/) :smile:.
+Pegno da pagare: foto e piccolo racconto di quanto accaduto per il nostro [blog](http://blog.itpug.org/){:target="_blank"} :smile:.
 
 [Una bacheca](/pages/bacheca/) con le proposte pervenute, segnalerà gli eventi, le conferenze e gli incontri programmati. Chiunque vorrà proporsi per la partecipazione sarà il benvenuto!
