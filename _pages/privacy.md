@@ -1,6 +1,6 @@
 ---
 permalink: /privacy/
-title: "Curiosità ed altre attività"
+title: "Privacy e GDPR"
 excerpt: "ITalian PostgreSQL Users Group"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -15,6 +15,8 @@ layouts_gallery:
 last_modified_at: 2017-08-05T14:28:13-05:00
 ---
 
-{% include gallery id="layouts_gallery" caption="Facilmente riconoscibili: `PostgreSQL`, `ITPUG`, `Community`" %}
+![GDPR]({{site.baseurl}}/assets/images/gdpr1.jpg)
+
+{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
 ## __________
