@@ -81,6 +81,11 @@ Oggi PostgreSQL è uno dei progetti Open Source di maggior successo.
 * **1994 – 1995**: **[Postgres95](https://www.postgresql.org/docs/8.4/static/history.html){:target="_blank"}** (Jolly Chen e Andrew Yu)
 * 1986 – 1993: **[University of California at Berkeley](https://www.postgresql.org/docs/8.4/static/history.html){:target="_blank"}** ([Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker){:target="_blank"})
 
+
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/en/timeline/6ee67b277be3b78e63fefb49e9fcf0a4.png)
+
+_[Grafico Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)_
+
 ## Per i più curiosi: le fasi dello sviluppo di PostgreSQL
 
 Tutto nasce dal bisogno di nuove funzionalità che possono emergere per scopi diversi: Commerciali, Accademici, Interesse personale (in pieno spirito hacker). Senza trascurare la presenza occasionale di committenti.

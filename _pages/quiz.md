@@ -35,7 +35,11 @@ Grazie a tutti!!!
 
 Che siano Open o Proprietari, cerchiamo di capire insieme come vengono percepiti sei tra i più noti DB.
 
-Come riferimento, nel menzionarli, useremo [DB-Engines Ranking](https://db-engines.com/en/ranking){:target="_blank"}.
+Come riferimento, nel menzionarli, useremo [DB-Engines Ranking](https://db-engines.com/en/ranking){:target="_blank"} che segnala ad oggi:
+
+![DB-Engines Ranking]({{site.baseurl}}/assets/images/DB1.png)
+
+![DB-Engines Ranking]({{site.baseurl}}/assets/images/DB2.png)
 
 [Valutiamo sei dei più noti DB](https://docs.google.com/forms/d/e/1FAIpQLScb0NZXLxAnZrM4HqBaln8m0MgjxOMPjVJ7iKQLxA3m6K_ibA/viewform){:target="_blank" .btn .btn--success .btn--large}
 
