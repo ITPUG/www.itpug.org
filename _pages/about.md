@@ -15,7 +15,9 @@ layouts_gallery:
 last_modified_at: 2017-08-04T14:28:13-05:00
 ---
 
-{% include gallery id="layouts_gallery" caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+![ITPUG]({{site.baseurl}}/assets/images/itpug.jpg)
+
+{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
 ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia.
 
@@ -70,7 +72,7 @@ Per essere sempre aggiornato sulle nostre attività, per perdere fantastiche opp
 
 ## Il consiglio direttivo
 
-Come recita lo [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Group](/assets/statuto.pdf){:target="_blank"}, Il Consiglio Direttivo è investito di ogni potere per decidere sulle iniziative da assumere e sui criteri da seguire per il conseguimento e l’attuazione degli scopi dell’associazione e per la sua direzione ed amministrazione ordinaria e straordinaria.
+Come recita lo [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Group]({{site.baseurl}}/assets/statuto.pdf){:target="_blank"}, Il Consiglio Direttivo è investito di ogni potere per decidere sulle iniziative da assumere e sui criteri da seguire per il conseguimento e l’attuazione degli scopi dell’associazione e per la sua direzione ed amministrazione ordinaria e straordinaria.
 
 L’attuale consiglio direttivo di ITPUG è composto da:
 

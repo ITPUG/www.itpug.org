@@ -15,7 +15,9 @@ layouts_gallery:
 last_modified_at: 2017-08-05T14:28:13-05:00
 ---
 
-{% include gallery id="layouts_gallery" caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+![PGDay.IT]({{site.baseurl}}/assets/images/pgday.jpg)
+
+{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
 Il **PGDay.IT** è l'evento nazionale dedicato alla promozione del più avanzato database open source al mondo. L'edizione italiana è una delle più longeve di tutta la comunità di Postgres ed è il risultato dell'attività dell’associazione consolidata no profit **ITPUG (Italian PostgreSQL Users Group)**.
 

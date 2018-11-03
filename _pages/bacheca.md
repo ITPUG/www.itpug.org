@@ -1,6 +1,6 @@
 ---
 permalink: /bacheca/
-title: "L'importanza di esserci"
+title: "LA bacheca di ITPUG - ITalian PostgreSQL Users Group"
 excerpt: "ITalian PostgreSQL Users Group"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -15,7 +15,9 @@ layouts_gallery:
 last_modified_at: 2017-08-05T14:28:13-05:00
 ---
 
-{% include gallery id="layouts_gallery" caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+![bacheca]({{site.baseurl}}/assets/images/bacheca1.jpg)
+
+{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
 ## L'importaza di esserci
 

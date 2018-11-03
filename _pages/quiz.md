@@ -15,7 +15,9 @@ layouts_gallery:
 last_modified_at: 2017-08-05T14:28:13-05:00
 ---
 
-{% include gallery id="layouts_gallery" caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+![Quiz]({{site.baseurl}}/assets/images/quiz1.jpg)
+
+{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
 ## Simili ai sondaggi, ma senza prenderci troppo sul serio
 

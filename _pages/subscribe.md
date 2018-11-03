@@ -15,7 +15,9 @@ layouts_gallery:
 last_modified_at: 2017-08-05T14:28:13-05:00
 ---
 
-{% include gallery id="layouts_gallery" caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+![iscriviti]({{site.baseurl}}/assets/images/iscriviti.jpg)
+
+{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
 Se ti piace PostgreSQL, lavori con questo database e vuoi fare parte della community italiana e internazionale non ti resta che iscriverti!
 
@@ -23,8 +25,8 @@ Pochi step e farai parte della Community Italiana dedicata a PostgreSQL
 
 ## Step 1: Lettura dello Statuto e della Privacy
 
-* [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Group](/assets/statuto.pdf/){:target="_blank"}
-* [Privacy](/privacy/){:target="_blank"}
+* [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Group]({{site.baseurl}}/assets/statuto.pdf){:target="_blank"}
+* [Privacy]({{site.baseurl}}/privacy/){:target="_blank"}
 
 ## Step 2: Pagamento della quota sociale
 

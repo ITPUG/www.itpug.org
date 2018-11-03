@@ -15,7 +15,9 @@ layouts_gallery:
 last_modified_at: 2017-08-05T14:28:13-05:00
 ---
 
-{% include gallery id="layouts_gallery" caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+![PostgreSQL]({{site.baseurl}}/assets/images/pgSQL.jpg)
+
+{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
 
 [PostgreSQL](https://www.postgresql.org/){:target="_blank"} è un potente database-relazionale open source.
 
