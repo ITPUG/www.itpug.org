@@ -80,4 +80,4 @@ I principali "attori" del PGDay.IT sono:
 
 Buona lettura a tutti! :smile:
 
-[^footnote]: <small>PGDAy ha dato vita al PGDay.IT e alla PGConf.EU</small>
+[^footnote]: <small>PGDay ha dato vita al PGDay.IT e alla PGConf.EU</small>
