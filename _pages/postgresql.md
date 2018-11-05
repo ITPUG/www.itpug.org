@@ -61,8 +61,8 @@ Grazie al contributo di centinaia di sviluppatori provenienti da tutto il mondo,
 
 Oggi PostgreSQL è uno dei progetti Open Source di maggior successo.
 
-* **2018 (18 ottobre)**: **[PostgreSQL 11](https://www.postgresql.org/about/press/presskit11/it/){:target="_blank"}**
-* **2017 (5 ottobre)**: **[PostgreSQL 10](https://www.postgresql.org/about/press/presskit10/it/){:target="_blank"}**
+* **2018 (18 ottobre)**: **[PostgreSQL 11](https://www.postgresql.org/about/press/presskit11/it/){:target="_blank"}** Increased Robustness and Performance for Partitioning, Transactions Supported in Stored Procedures, Enhanced Capabilities for Query Parallelism, Just-in-Time (JIT) Compilation for Expressions 
+* **2017 (5 ottobre)**: **[PostgreSQL 10](https://www.postgresql.org/about/press/presskit10/it/){:target="_blank"}** Logical replication, declarative table partitioning, improved query parallelism
 * **2016 (29 settembre)**: **[PostgreSQL 9.6](https://www.postgresql.org/about/press/presskit96/it/){:target="_blank"}** Parallel Queries, Multi sync standby servers, Smarter Foreign Data Wrappers, Phrase search
 * **2016 (7 gennaio)**: **[PostgreSQL 9.5](https://www.postgresql.org/about/press/presskit95/it/){:target="_blank"}** “Upsert” (INSERT ... ON CONFLICT), BRIN (Block Range Indexes), pg_rewind, Import Foreign Schema, Inheritance with foreign tables
 * **2014 (18 dicembre)**: **[PostgreSQL 9.4](https://www.postgresql.org/about/press/presskit94/it/){:target="_blank"}** Logical replication, Replication slots, JSONB
