@@ -17,7 +17,7 @@ last_modified_at: 2017-08-05T14:28:13-05:00
 
 ![PostgreSQL]({{site.baseurl}}/assets/images/pgSQL.jpg)
 
-{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+{% include gallery caption="`PostgreSQL`, `Database Relazionale`, `Open Source`, `Licenza BSD`, `ITPUG`, `Community`" %}
 
 [PostgreSQL](https://www.postgresql.org/){:target="_blank"} è un potente database-relazionale open source.
 
@@ -61,7 +61,7 @@ Grazie al contributo di centinaia di sviluppatori provenienti da tutto il mondo,
 
 Oggi PostgreSQL è uno dei progetti Open Source di maggior successo.
 
-* **2018 (18 ottobre)**: **[PostgreSQL 11](https://www.postgresql.org/about/press/presskit11/it/){:target="_blank"}** Increased Robustness and Performance for Partitioning, Transactions Supported in Stored Procedures, Enhanced Capabilities for Query Parallelism, Just-in-Time (JIT) Compilation for Expressions 
+* **2018 (18 ottobre)**: **[PostgreSQL 11](https://www.postgresql.org/about/press/presskit11/it/){:target="_blank"}** Increased Robustness and Performance for Partitioning, Transactions Supported in Stored Procedures, Enhanced Capabilities for Query Parallelism, Just-in-Time (JIT) Compilation for Expressions
 * **2017 (5 ottobre)**: **[PostgreSQL 10](https://www.postgresql.org/about/press/presskit10/it/){:target="_blank"}** Logical replication, declarative table partitioning, improved query parallelism
 * **2016 (29 settembre)**: **[PostgreSQL 9.6](https://www.postgresql.org/about/press/presskit96/it/){:target="_blank"}** Parallel Queries, Multi sync standby servers, Smarter Foreign Data Wrappers, Phrase search
 * **2016 (7 gennaio)**: **[PostgreSQL 9.5](https://www.postgresql.org/about/press/presskit95/it/){:target="_blank"}** “Upsert” (INSERT ... ON CONFLICT), BRIN (Block Range Indexes), pg_rewind, Import Foreign Schema, Inheritance with foreign tables

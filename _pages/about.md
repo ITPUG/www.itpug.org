@@ -17,7 +17,7 @@ last_modified_at: 2017-08-04T14:28:13-05:00
 
 ![ITPUG]({{site.baseurl}}/assets/images/ITPUG.jpg)
 
-{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+{% include gallery caption="`ITPUG`, `Community`, `PostgreSQL`, `Open Source` " %}
 
 ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia.
 

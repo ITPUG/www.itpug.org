@@ -17,7 +17,7 @@ last_modified_at: 2017-08-05T14:28:13-05:00
 
 ![bacheca]({{site.baseurl}}/assets/images/bacheca1.jpg)
 
-{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+{% include gallery caption="`ITPUG`, `Community`, `Eventi`, `Conferenze`, `PostgreSQL`, `Open Source` " %}
 
 ## L'importaza di esserci
 

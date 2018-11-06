@@ -17,7 +17,7 @@ last_modified_at: 2017-08-05T14:28:13-05:00
 
 ![Eventi]({{site.baseurl}}/assets/images/eventi.jpg)
 
-{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+{% include gallery caption="`ITPUG`, `Community`, `Propositivi`, `Suggerimenti`, `Eventi`, `Conferenze`, `PostgreSQL`, `Open Source` " %}
 
 ## Fondamentale essere propositivi!
 

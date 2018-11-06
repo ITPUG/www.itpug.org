@@ -17,7 +17,7 @@ last_modified_at: 2017-08-05T14:28:13-05:00
 
 ![Quiz]({{site.baseurl}}/assets/images/quiz1.jpg)
 
-{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+{% include gallery caption=" `ITPUG`, `Community`, `Curiosità`, `Quiz`, `Sondaggi`, `PostgreSQL`, `Open Source` " %}
 
 ## Simili ai sondaggi, ma senza prenderci troppo sul serio
 

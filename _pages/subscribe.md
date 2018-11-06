@@ -17,7 +17,7 @@ last_modified_at: 2017-08-05T14:28:13-05:00
 
 ![iscriviti]({{site.baseurl}}/assets/images/iscriviti.jpg)
 
-{% include gallery caption="`PostgreSQL`, `ITPUG`, `Community`" %}
+{% include gallery caption=" `ITPUG`, `Community` `Associati`, `Partecipazione attiva`, `PostgreSQL`, `Open Source` " %}
 
 Se ti piace PostgreSQL, lavori con questo database e vuoi fare parte della community italiana e internazionale non ti resta che iscriverti!
 
