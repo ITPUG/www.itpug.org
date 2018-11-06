@@ -22,7 +22,7 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: /docs/quick-start-guide/
-  - title: "L'associzione"
+  - title: "L'associazione"
     url: /about/
   - title: "Iscriviti"
     url: /subscribe/
@@ -39,7 +39,7 @@ main:
   - title: "Bacheca"
     url: /bacheca/
   - title: "Altri eventi"
-    url: /events/    
+    url: /events/
   - title: "Quiz"
     url: /quiz/
 #  - title: "Sample Collections"
