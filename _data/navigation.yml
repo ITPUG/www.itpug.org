@@ -20,8 +20,6 @@
 
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: /docs/quick-start-guide/
   - title: "L'associazione"
     url: /about/
   - title: "Iscriviti"
@@ -42,8 +40,6 @@ main:
     url: /events/
   - title: "Quiz"
     url: /quiz/
-#  - title: "Sample Collections"
-#    url: /collection-archive/
   - title: "Privacy &amp; GDPR"
     url: /privacy/
 
