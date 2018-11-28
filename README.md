@@ -16,10 +16,11 @@ To run the website locally, and contribute, you need:
 
 ## Local development
 
-1. Install Jekyll and bundler gems
+1. Install Jekyll and the bundle
 
 ```
 gem install jekyll bundler
+bundle install
 ```
 
 2. Build the site and make it available on a local server
