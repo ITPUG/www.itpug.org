@@ -118,4 +118,4 @@ Promuovere ove possibile l’adozione e l’utilizzo di software open source e d
 
 Si ringrazia IWA/HWG Italia per aver concesso a ITPUG di prendere il proprio codice di etica come punto di riferimento per la nostra associazione.
 
-[Isctiviti alla Community]({{ "/subscribe/" | absolute_url }}){: .btn .btn--success .btn--large}
+[Iscriviti alla Community]({{ "/subscribe/" | absolute_url }}){: .btn .btn--success .btn--large}
