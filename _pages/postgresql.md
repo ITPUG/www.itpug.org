@@ -42,15 +42,23 @@ PostgreSQL è un progetto dinamico grazie alla sua Community molto attiva che og
 
 ## Licenza BSD
 
-*Copyright (c) -year-, -copyright holder- All rights reserved.*
+PostgreSQL viene rilasciato con [apposita licenza derivata da quella BSD](https://www.postgresql.org/about/licence/):
 
-* **Redistribution and use in source and binary forms, with or without modification, are permitted** *provided that the following conditions are met:*
+```
+PostgreSQL Database Management System
+(formerly known as Postgres, then as Postgres95)
 
-* **Redistributions of source code** *must retain the above copyright notice, this list of conditions and the following disclaimer.*
+Portions Copyright © 1996-2018, The PostgreSQL Global Development Group
 
-* **Redistributions in binary** *form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.*
+Portions Copyright © 1994, The Regents of the University of California
 
-* *Neither the name of the -organization- nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.*
+Permission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee, and without a written agreement is hereby granted, provided that the above copyright notice and this paragraph and the following two paragraphs appear in all copies.
+
+IN NO EVENT SHALL THE UNIVERSITY OF CALIFORNIA BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF THE UNIVERSITY OF CALIFORNIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+THE UNIVERSITY OF CALIFORNIA SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE UNIVERSITY OF CALIFORNIA HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS. 
+```
+
 
 ## Puntiamo il riflettore sulle varie release di PostgreSQL
 
