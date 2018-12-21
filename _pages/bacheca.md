@@ -1,6 +1,6 @@
 ---
 permalink: /bacheca/
-title: "LA bacheca di ITPUG - ITalian PostgreSQL Users Group"
+title: "La bacheca di ITPUG - ITalian PostgreSQL Users Group"
 excerpt: "ITalian PostgreSQL Users Group"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
