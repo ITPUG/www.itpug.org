@@ -21,13 +21,13 @@ last_modified_at: 2017-08-05T14:28:13-05:00
 
 ## Fondamentale essere propositivi!
 
-Fondamentale per la nostra Associazione, poter presenziare anche ad altri eventi, conferenze, incontri.
+Fondamentale per la nostra Associazione: poter presenziare anche ad altri eventi, conferenze, incontri.
 
-La partecipazione ad altri eventi, rafforza il nostro i nostri sforzi nella promozione di PostgreSQL e l'Open Source.
+La partecipazione ad altri eventi, rafforza i nostri sforzi nella promozione di PostgreSQL e l'Open Source.
 
 Per riuscirci, occorre che i nostri associati siano sempre più propositivi. Segnalando eventi, conferenze, incontri e proponendosi nel rappresentare ITPUG - ITalian PostgreSQL Users Group.
 
-Per segnalare le proposte è molto facile. Basta [compilare l'apposito form](https://docs.google.com/forms/d/e/1FAIpQLSdfePlsGR-HzfXJbmrrdy7O8DfEREP9SSZ-4zxSWXYOlrVg9A/viewform){:target="_blank"} o inviare le stesse informazioni direttamente a mezzo [email](mailto:info@itpug.org).
+Segnalare le proposte è molto facile: basta [compilare l'apposito form](https://docs.google.com/forms/d/e/1FAIpQLSdfePlsGR-HzfXJbmrrdy7O8DfEREP9SSZ-4zxSWXYOlrVg9A/viewform){:target="_blank"} o inviare le stesse informazioni direttamente a mezzo [email](mailto:info@itpug.org).
 
 I volontari che si proporranno per la partecipazione a questi eventi, riceveranno il materiale promozionale necessario per presenziare alla manifestazione.
 
