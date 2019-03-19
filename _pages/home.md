@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/home_page_banner.png
   cta_url: "/about/"
   caption:
 excerpt: 'ITalian PostgreSQL Users Group'
