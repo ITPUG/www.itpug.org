@@ -77,10 +77,10 @@ Come recita lo [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Gro
 L’attuale consiglio direttivo di ITPUG è composto da:
 
 * Marco Nenciarini, Presidente
-* Matteo Beccati, Vice-Presidente
+* Andrej Sossi, Vice-Presidente
 * Patrizia Dabizzi, Tesoriere
 * Barbara Milani, Segretario
-* Giuseppe Broccolo, Consigliere
+* Florin Irion, Consigliere
 
 ## Soci fondatori
 
