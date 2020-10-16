@@ -61,6 +61,7 @@ Grazie al contributo di centinaia di sviluppatori provenienti da tutto il mondo,
 
 Oggi PostgreSQL è uno dei progetti Open Source di maggior successo.
 
+* **2020 (24 Settembre)**: **[PostgreSQL 13](https://www.postgresql.org/about/press/presskit13/){:target="_blank"}** Notable enhancements include *space savings and performance gains from de-duplication of B-tree index entries*, *Parallel vacuuming of indexes*, *improved performance for queries that use aggregates or partitioned tables* and *better usage of extended statistics when planning queries*.
 * **2019 (3 ottobre)**: **[PostgreSQL 12](https://www.postgresql.org/about/press/presskit12/){:target="_blank"}** Notable improvements to query performance, particularly over larger data sets, and overall space utilization,  new capabilities such as SQL/JSON path expression support, optimizations for how common table expression (WITH) queries are executed, and generated columns. 
 * **2018 (18 ottobre)**: **[PostgreSQL 11](https://www.postgresql.org/about/press/presskit11/it/){:target="_blank"}** Increased Robustness and Performance for Partitioning, Transactions Supported in Stored Procedures, Enhanced Capabilities for Query Parallelism, Just-in-Time (JIT) Compilation for Expressions
 * **2017 (5 ottobre)**: **[PostgreSQL 10](https://www.postgresql.org/about/press/presskit10/it/){:target="_blank"}** Logical replication, declarative table partitioning, improved query parallelism
