@@ -12,7 +12,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2017-08-04T14:28:13-05:00
+last_modified_at: 2020-10-17T14:28:13-05:00
 ---
 
 ![ITPUG]({{site.baseurl}}/assets/images/ITPUG.jpg)
@@ -76,11 +76,12 @@ Come recita lo [Statuto dell’Associazione ITPUG - ITalian PostgreSQL Users Gro
 
 L’attuale consiglio direttivo di ITPUG è composto da:
 
-* Marco Nenciarini, Presidente
-* Andrej Sossi, Vice-Presidente
-* Patrizia Dabizzi, Tesoriere
-* Barbara Milani, Segretario
-* Florin Irion, Consigliere
+* Emanuele Zamprogno, Presidente
+* Erik Tiengo, Vice-Presidente
+* Ilaria Battiston, Tesoriere
+* Andrej Sossi, Segretario
+* Gianni Ciolli, Consigliere
+* Nicola Cisternino, Consigliere
 
 ## Soci fondatori
 
