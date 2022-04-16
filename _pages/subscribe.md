@@ -36,9 +36,9 @@ Nel caso di bonifico specificare nella causale: Iscrizione/rinnovo ITPUG anno: A
 
 ITPUG Italian PostgreSQL Users Group
 
-IBAN: IT55U 08673 21502 075000 401248
+IBAN: IT25I 05018 12101 000016986762
 
-BIC: ICRAITRRIP0
+BIC: CCRTIT2T84A
 
 Se la preferenza è PayPal, basterà cliccare sul bottone "Paga adesso":
 
