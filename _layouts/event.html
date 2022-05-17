@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<style>
+  @media (min-width: 64em) {
+    .page {
+      float: right;
+      width: 80%;
+    }
+
+    .sidebar {
+      width: 20%;
+    }
+  }
+</style>
+<div id="main" role="main">
+  {% include sidebar_event.html %}
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+
+    {% if page.title %}<h1 class="page__title">{{ page.title }}</h1>{% endif %}
+
+    {% if page.event_image %}<img src="{{site.baseurl}}{{page.event_image}}" title="{{page.title}}" alt="{{page.title}}"/>{% endif %}
+
+    {% if page.event_booking %}<p><a href="{{page.event_booking_link}}" class="btn btn--danger btn--x-large">{{page.event_booking_label}}</a></p>{% endif %}
+
+    {{ content }}
+  </article>
+
+</div>

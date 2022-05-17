@@ -1,0 +1,43 @@
+<div class="sidebar sticky">
+  <h3 class="author__name">Dettagli Meetup</h3>
+  <hr />
+  <div class="author__content">
+    <p class="author__bio">Data e ora</p>
+  </div>
+  <div class="author__urls-wrapper">
+    <ul class="author__urls social-icons">
+      {% if page.event_date %}
+      <li>
+        <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <span>{{page.event_date}}</span>
+      </li>
+      {% endif %}
+      {% if page.event_time %}
+      <li>
+        <i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> <span>{{page.event_time}}</span>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+  <hr />
+  <div class="author__content">
+    <p class="author__bio">Location</p>
+  </div>
+  {% if page.event_location %}
+  <div class="author__urls-wrapper">
+    <ul class="author__urls social-icons">
+      <li>
+        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
+        <span>
+          {{page.event_location}}
+        </span>
+      </li>
+    </ul>
+  </div>
+  {% endif %}
+  {% if page.event_location_map %}
+  <iframe
+    src="{{page.event_location_map}}"
+    width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"></iframe>
+  {% endif %}
+</div>
